@@ -1,1 +1,3 @@
-# Proximal_MCMC
+# Proximal Markov chain Monte Carlo algorithms
+
+## Introduction
