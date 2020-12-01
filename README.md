@@ -10,16 +10,20 @@ Modern imaging methods rely strongly on Bayesian inference techniques to solve c
 This paper presents a new and highly efficient Markov chain Monte Carlo methodology to perform Bayesian computation for high dimensional models that are log-concave and non-smooth, a class of models that is central in image processing. The methodology improves the Metropolis-adjusted Langevin algorithm MALA using convex optimisation algorithms and proximal operators enabling us to capture local properties of the target density and explore the parameter space efficiently.
 
 
-### Plan:
-- context:
+### Plan:-
+#### Context:
+
           - Introduce: log-concave distributions, ULA and MALA.
+          
           - Talk about convergence properties.
           
-- P-MALA: 
+#### P-MALA: 
           - Introduce: Moreau-Yoshida approximation and its properties.
+          
           - Introduce: P-ULA and P-MALA
+          
           - Talk about convergence properties + proofs.
           
-- Applications.
+#### Applications.
           
 
